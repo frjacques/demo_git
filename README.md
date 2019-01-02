@@ -1,2 +1,4 @@
 # demo_git
-Une démo de git
+
+Tuto OpenClassrooms
+Une démo de git qui se passe bien
